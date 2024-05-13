@@ -2,7 +2,7 @@
 
 ## **Tec EdoMex 1st semester 2024**
 
-** Installation** 
+**Installation** 
 
 - git clone https://github.com/joseantoniomancillachatu/tec_1s24
 - cd tec_1s24
